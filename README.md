@@ -3,10 +3,10 @@ A simple chat app that allows two clients to message each other through a server
 
 ---
 
-Here is how the app looks when it first boots up. The top two console windows are the chat clients and the bottom console window is the chat server.
-![Chat client starting up](startup-screenshot.png)
+Here is how the app looks when it first boots up. The top two console windows are the chat clients and the bottom console window is the chat server.  
+![Chat client starting up](screenshots/startup-screenshot.png)
 
 ---
 
-Here is how the app may look when the clients have finished chatting.
-![Chat client finished](finished-screenshot.png)
+Here is how the app may look when the clients have finished chatting.  
+![Chat client finished](screenshots/finished-screenshot.png)
